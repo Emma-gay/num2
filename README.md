@@ -43,6 +43,6 @@
 <b16>Para todos los pasos siguientes, inserte el texto en cualquier parte entre "BODY" y "/BODY" para agregar al cuerpo del documento.</b16>
 <br></br>
       <p> anterior pagina <a href="https://emma-gay.github.io/num1/"> enlace</a> a otro sitio web.</p>
-            <p> siguiente pagina <a href="https:/Emma-gay.github/texto3.html"">enlace</a></p>
+             <p> siguiente pagina <a href="https://emma-gay.github.io/num3/"> enlace</a> a otro sitio web.</p>
 </body>
 </html>
